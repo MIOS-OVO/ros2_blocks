@@ -1,0 +1,10 @@
+# red, blue, green, or 红色、蓝色、绿色.
+string color
+---
+bool found
+string message
+# Bounding box in pixels, measured from the top-left of the original image.
+int32 x
+int32 y
+int32 width
+int32 height
